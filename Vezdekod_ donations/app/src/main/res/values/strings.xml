@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Vezdekod_ donations</string>
+    <string name="title">
+        Пожертвования
+</string>
+    <string name="text">
+У вас пока нет сборов."\n"Начните доброе дело.
+</string>
+    <string name="label">
+Создать сбор
+</string>
+    <string name="title2">
+
+Тип сбора
+</string>
+    <string name="show_hide_t">
+
+Целевой сбор</string>
+</resources>
