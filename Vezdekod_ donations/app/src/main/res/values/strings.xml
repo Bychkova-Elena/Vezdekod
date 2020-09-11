@@ -16,4 +16,18 @@
     <string name="show_hide_t">
 
 Целевой сбор</string>
+    <string name="header_type">Тип сбора</string>
+    <string name="target_pay">Целевой сбор</string>
+    <string name="regular_type">Регулярный сбор</string>
+    <string name="header_target">Целевой сбор</string>
+    <string name="name_pay">Название сбора</string>
+    <string name="editName">Название сбора</string>
+    <string name="summ">Сумма, ₽</string>
+    <string name="editSumm">Сколько нужно собрать?</string>
+    <string name="target">Цель</string>
+    <string name="example">Например, лечение человека</string>
+    <string name="description">Описание</string>
+    <string name="when">На что пойдут деньги и как они кому-то помогут?</string>
+    <string name="when_pay">Куда получать деньги</string>
+    <string name="vk_pay_1234">Счёт VK Pay - 1234</string>
 </resources>
